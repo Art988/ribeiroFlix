@@ -32,12 +32,12 @@ th {
 }
 
 header {
-    background-color: rgba(255, 204, 0, 1);
+    background-color: rgb(0, 24, 182);
     padding: 20px;
 }
 
 footer {
-    background-color: rgba(255, 204, 0, 1);
+    background-color: rgb(0, 24, 182);
     padding: 5px;
     text-align: center;
     bottom: 0;
@@ -46,7 +46,7 @@ footer {
 }
 
 label {
-    background-color: rgba(255, 204, 0, 1);
+    background-color: rgb(0, 24, 182);
     padding: 5px;
     font-size: 25px;
     margin: 25px;
